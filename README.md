@@ -1,1 +1,3 @@
-<H1> Overwatch Inspired Bayes' Theorem Lesson </H1> 
+<H1> Mei is Bayes'</H1> 
+  
+An Overwatch Inspired Bayes' Theorem Lesson
